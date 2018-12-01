@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<!-- Cheeseburger Device-->
-  <project name="soshiweekly/android_device_oneplus_cheeseburger" path="device/oneplus/cheeseburger" remote="github" revision="pie" />
-  <project name="soshiweekly/android_device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="github" revision="pie" /><project name="soshiweekly/android_device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="github" revision="pie" />
-
-</manifest>
